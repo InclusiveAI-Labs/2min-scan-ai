@@ -25,8 +25,8 @@ const Problem = () => {
               </div>
               <h3 className="text-xl font-semibold mb-4">Safety & Comfort Issues</h3>
               <p className="text-muted-foreground leading-relaxed">
-                MRI scans are slow and uncomfortable, while <strong>CT scans carry 
-                radiation risks</strong> from prolonged exposure.
+                MRI scans are slow (20-90 mins) and uncomfortable, while <strong>CT scans carry 
+                cancer risks</strong> from prolonged exposure.
               </p>
             </div>
             
