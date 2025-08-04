@@ -31,12 +31,16 @@ const Hero = () => {
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
-            <Button variant="hero" size="xl" className="min-w-[200px]">
-              Join the Waitlist
-            </Button>
-            <Button variant="medical" size="xl" className="min-w-[200px]">
-              Contact Us
-            </Button>
+            <a href="mailto:m.akoda24@imperial.ac.uk?subject=Join%20the%20Waitlist%20-%202MinScan%20AI">
+              <Button variant="hero" size="xl" className="min-w-[200px]">
+                Join the Waitlist
+              </Button>
+            </a>
+            <a href="mailto:m.akoda24@imperial.ac.uk?subject=Contact%20-%202MinScan%20AI">
+              <Button variant="medical" size="xl" className="min-w-[200px]">
+                Contact Us
+              </Button>
+            </a>
           </div>
           
           {/* Key Stats */}
