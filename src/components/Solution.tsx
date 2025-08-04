@@ -120,7 +120,7 @@ const Solution = () => {
           <div className="inline-flex items-center space-x-4 bg-card rounded-2xl p-6 shadow-medical">
             <div className="text-center">
               <div className="w-16 h-16 bg-muted rounded-xl flex items-center justify-center mb-2">
-                <span className="text-muted-foreground font-bold">25%</span>
+                <span className="text-muted-foreground font-bold">10%</span>
               </div>
               <p className="text-sm font-medium">Raw Data</p>
             </div>
