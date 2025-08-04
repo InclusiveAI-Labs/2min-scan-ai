@@ -38,7 +38,7 @@ const CallToAction = () => {
                 <span className="text-accent font-bold">⚡</span>
               </div>
               <p className="font-medium">Real-Time Ready</p>
-              <p className="text-sm text-muted-foreground">0.3s per slice</p>
+              <p className="text-sm text-muted-foreground">0.3s per MRI image</p>
             </div>
             
             <div className="text-center">

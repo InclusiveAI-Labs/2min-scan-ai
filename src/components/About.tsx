@@ -73,18 +73,6 @@ const About = () => {
               </div>
             </div>
           </div>
-          
-          {/* Visual Comparison */}
-          <div className="mt-12">
-            <img 
-              src={scanComparison} 
-              alt="AI Scan Reconstruction Comparison" 
-              className="w-full rounded-2xl shadow-elegant"
-            />
-            <p className="text-center text-muted-foreground mt-4">
-              Undersampled raw data → AI reconstructed diagnostic-quality scan
-            </p>
-          </div>
         </div>
       </div>
     </section>
