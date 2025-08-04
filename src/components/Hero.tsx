@@ -47,7 +47,7 @@ const Hero = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16">
             <div className="text-center animate-count-up">
               <div className="text-metric counter-animate">0.3s</div>
-              <p className="text-muted-foreground font-medium">Per Slice Inference</p>
+              <p className="text-muted-foreground font-medium">Per Scan Inference</p>
             </div>
             <div className="text-center animate-count-up">
               <div className="text-metric counter-animate">96-99%</div>
