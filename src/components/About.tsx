@@ -22,7 +22,7 @@ const About = () => {
               Our breakthrough{" "}
               <span className="text-accent font-semibold">one-step reconstruction engine</span>{" "}
               delivers <span className="text-primary font-semibold">96–99% clinical accuracy 
-              in just 0.3 seconds per slice</span>, making it the first real-time-ready 
+              in just 0.3 seconds per scan</span>, making it the first real-time-ready 
               generative imaging solution for MRI and CT.
             </p>
           </div>
@@ -61,7 +61,7 @@ const About = () => {
                   <span className="text-accent font-bold">⚡</span>
                 </div>
                 <p className="font-medium">Real-time speed demonstration</p>
-                <p className="text-sm text-muted-foreground">0.3s slice inference animation</p>
+                <p className="text-sm text-muted-foreground">0.3s scan inference</p>
               </div>
               
               <div className="text-center p-4">
