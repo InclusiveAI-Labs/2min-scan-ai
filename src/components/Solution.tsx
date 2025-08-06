@@ -43,7 +43,7 @@ const Solution = () => {
               <div>
                 <h3 className="font-semibold text-lg mb-2">Real-Time Processing</h3>
                 <p className="text-muted-foreground">
-                  <strong>One-step real-time inference (0.3s/slice)</strong> ready for clinical workflows
+                  <strong>One-step real-time inference (0.3s/scan)</strong> ready for clinical workflows
                 </p>
               </div>
             </div>
